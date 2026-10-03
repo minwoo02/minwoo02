@@ -2,15 +2,20 @@
 
 ### Biomedical Engineering × Electronics × Computing
 
-Undergraduate student interested in **bioelectronics, neural interfaces, biosignal processing, and living-hybrid systems**.
+Interested in **bioelectronics, neural interfaces, biosignal processing, and living-hybrid systems**.
 
-I am exploring how embedded systems, signal processing, and machine learning can be integrated with biological systems to build **closed-loop bioelectronic and neural-interface systems**.
+I am building a foundation in embedded systems, signal processing, electronics, and machine learning to explore how biological systems can interact with electronic hardware in closed-loop environments.
 
 ---
 
 ## Research Interests
 
-`Bioelectronics` · `Neural Interfaces` · `Biosignal Processing` · `Embedded Systems` · `Machine Learning` · `Living-Hybrid Systems`
+- Bioelectronics
+- Neural Interfaces
+- Biosignal Processing
+- Embedded Systems
+- Machine Learning for Biosignals
+- Living-Hybrid Systems
 
 My long-term interest is in **living-hybrid bioelectronic systems**, particularly interfaces that connect biological neural systems with electronic hardware for sensing, processing, and closed-loop interaction.
 
@@ -20,39 +25,45 @@ My long-term interest is in **living-hybrid bioelectronic systems**, particularl
 
 ### BioLoop-Pi
 
-**BioLoop-Pi** is a personal research project for building a modular biosignal acquisition and processing platform using a Raspberry Pi and microcontrollers.
+**BioLoop-Pi** is a personal research project for developing a modular biosignal acquisition and processing platform using a Raspberry Pi and microcontrollers.
 
-The project is intended to develop step by step from:
+The project is being developed through the following pipeline:
 
 **Signal Acquisition → Data Transfer → Signal Processing → Machine Learning → Closed-Loop Feedback**
 
-Current stage: building and validating the communication and data pipeline between a **Raspberry Pi 5** and **Raspberry Pi Pico 2 W**.
+Current work focuses on building and validating communication and data transfer between a **Raspberry Pi 5** and **Raspberry Pi Pico 2 W**.
 
-The long-term goal is to extend the platform toward experiments involving **biosignals, neural interfaces, MEA systems, and living-hybrid bioelectronics**.
+Future extensions are planned toward:
+
+- Biosignal acquisition and analysis
+- Real-time signal processing
+- Machine-learning-based signal interpretation
+- Closed-loop feedback systems
+- Neural interface and MEA experiments
+- Living-hybrid bioelectronic systems
 
 ---
 
 ## Technical Focus
 
-**Embedded & Hardware**  
+### Embedded & Hardware
+
 Raspberry Pi · Raspberry Pi Pico · RP2350 · AVR / ATmega128 · Serial Communication
 
-**Programming & Data**  
+### Programming & Data
+
 Python · C · PyTorch · Git · Linux
 
-**Currently Learning**  
-Biosignal Processing · Machine Learning · Electronic Circuits · Microcontrollers · Neural Interfaces
+### Currently Learning
+
+Electronic Circuits · Microcontrollers · Biosignal Processing · Machine Learning · Neural Interfaces
 
 ---
 
-## Academic Background
+## Academic Focus
 
-**Gachon University**
-
-Biomedical Engineering  
-Electronics Engineering  
-Biohealth & Medical Device Convergence
+Biomedical Engineering · Electronics · Biohealth & Medical Devices
 
 ---
 
-> Building the engineering foundation for future research in bioelectronics and living-hybrid systems.
+> Building the engineering foundation for future research in bioelectronics, neural interfaces, and living-hybrid systems.
